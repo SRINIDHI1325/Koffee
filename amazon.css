@@ -1,0 +1,17 @@
+*{
+    padding: 0%;
+    margin:0%;
+}
+a{
+    margin-right: 55px;
+}
+#title{
+    color: rgba(238, 158, 9, 0.904);
+}
+button{
+    background-color: rgba(250, 175, 36, 0.829);
+}
+span{
+    background-color: black;
+    color:aliceblue
+}

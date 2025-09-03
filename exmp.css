@@ -1,0 +1,14 @@
+#box{
+    background-color: blue;
+}
+button{
+    background-color: green;
+}
+h1{
+    text-transform: capitalize;
+    text-align: center;
+
+}
+*{
+    font-family: 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: palevioletred;
+}
+div{
+    background-color:whitesmoke;
+    height: 400px;
+    width: 37%;
+    margin-top: 150px;
+    margin-left: 450px;
+    border-radius: 5px;
+}
+#TITLE{
+    padding-top: 35px;
+    padding-left: 25px;
+}
+#fname,#mail{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+#lname{
+    padding-left: 300px;
+}
+#dob{
+     padding-top: 35px;
+    padding-left: 25px;
+}
+#gender,#no{
+     padding-left: 300px;
+}
